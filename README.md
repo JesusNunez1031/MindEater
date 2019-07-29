@@ -1,7 +1,19 @@
 # MindEater
 Software Engineering Project Fall2018
-The project is implemented using React Framework and Material UI; the backend is managed through Firebase. To run the repsitory, clone and then run npm intall and then
-npm start.
+
+## Modules and dependencies
+- React
+- Material UI
+- Firebase
+
+###### For building
+- NodeJS v10 or newer
+- NPM
+
+## Installation 
+1. Clone repository to local machine
+2. Run `npm intall` to install all dependencies
+3. Run `npm start`, this will run the site locally under `localhost`
 
 The project was made in two versions, V1 is HTML/CSS and Javascript mostly prototype content, the actual hosted site is in V2. 
 
